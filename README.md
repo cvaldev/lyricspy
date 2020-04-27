@@ -1,5 +1,7 @@
 # Lyricspy
 
+Get the lyrics for what's currently playing on Spotify, or an specific song, from your terminal.
+
 ## Pre-requisites
 
 pipenv and pipenv-shebang:
